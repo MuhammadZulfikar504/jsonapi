@@ -1,0 +1,30 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Buku",
+    "category": "Peralatan Belajar",
+    "date": "12 jan"
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "Helm",
+    "category": "Aksesories",
+    "date": "16 feb"
+  },
+  {
+    "userId": 3,
+    "id": 3,
+    "title": "Jam Tangan",
+    "category": "Aksesories",
+    "date": "12 jan"
+  },
+  {
+    "userId": 4,
+    "id": 4,
+    "title": "Sepatu",
+    "category": "Aksesories",
+    "date": "12 jan"
+  },
+]
